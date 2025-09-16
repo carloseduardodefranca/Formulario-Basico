@@ -1,4 +1,4 @@
-# O-Formul-rio-de-Inscri-o-B-sico
+# O-Formulrio-de-Inscrição-Bsico
 
 # Projeto 07 (Trilha Simplificada) - Formulário de Inscrição Básico
 
